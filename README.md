@@ -1,5 +1,9 @@
 ## Hi there! I'm Rafael Gomes.👋
 
+I created this space for us to share knowledge about programming and other technologies in order to learn more and more. Welcome!
+
+<b>About me:</b>
+
 - 🔭 I’m currently working with front end 
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me: contact me on rafael.gomes@bighouseweb.com.br or rafaelcgcomercial@gmail.com
